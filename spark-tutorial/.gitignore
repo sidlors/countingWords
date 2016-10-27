@@ -2,3 +2,7 @@
 .cache
 dna.consensus.txt
 food.counts.txt
+/.settings/
+/.cache-main
+/.classpath
+/.project
