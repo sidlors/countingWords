@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Introduction to predictive modeling in Spark with applications in pharmaceutical bioinformatics
 [Spark](http://spark.apache.org/) is a genearal cluster computing engine for large-scale data processing. In this repository we store tutorials, exercises, and code snippets, to get started with Spark for predictive modeling. Even if the main focus here is pharmaceutical bioinformatics, the presented methodologies are generally applicable, hence the following tutorials represent a good starting point for everyone is interested in learning Spark. 
 
@@ -450,3 +451,7 @@ Logistic regression is another machine learning algorithm built-in Spark. Since 
 **Hint:** to get the job done quickly, you just need to switch the [LogisticRegression](https://github.com/mcapuccini/spark-cp/blob/master/cp/src/main/scala/se/uu/farmbio/cp/alg/LogisticRegression.scala) class to the SVM class, when you train the inductive conformal predictor. 
 
 **Solution:** you can give a look to the solution [here](https://github.com/mcapuccini/spark-tutorial/blob/master/spark-tutorial/src/main/scala/se/uu/farmbio/tutorial/CPWithLR.scala). As usual, it's good to try it yourself first. 
+=======
+# countingWords
+Scala exercise for spark job
+
